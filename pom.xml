@@ -60,7 +60,6 @@
                     </execution>
                     <execution>
                         <id>compile-java-9</id>
-                        <phase>compile</phase>
                         <goals>
                             <goal>compile</goal>
                         </goals>
@@ -74,7 +73,6 @@
                     </execution>
                     <execution>
                         <id>compile-java-21</id>
-                        <phase>compile</phase>
                         <goals>
                             <goal>compile</goal>
                         </goals>
